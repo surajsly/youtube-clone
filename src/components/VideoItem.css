@@ -1,0 +1,15 @@
+.video-item {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+  margin-top: 25px;
+  background-color: #282828;
+  color: #fff;
+}
+.header {
+  color: #fff !important;
+}
+
+.video-item .item img {
+  max-width: 100px;
+}
